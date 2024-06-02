@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Examen-Belgica</string>
+    <string name="factura_title" translatable="false">Facturas</string>
+    <string name="detallefactura_titulo">\n</string>
+</resources>
